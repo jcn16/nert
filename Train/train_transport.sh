@@ -1,0 +1,1 @@
+python Train/train_transport.py --dataset_name=transport --check_dir=checkpoints/checkpoints_transport_GT_0.001 --normal_thred=0.001
